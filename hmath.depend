@@ -137,3 +137,40 @@
 	<math.h>
 	<stdlib.h>
 
+1751421202 source:c:\users\52555\documents\github\hmath-tests\core\hmemory.cpp
+	"hmemory.h"
+
+1751421225 c:\users\52555\documents\github\hmath-tests\core\hmemory.h
+	"../defines.h"
+
+1751421249 c:\users\52555\documents\github\hmath-tests\defines.h
+	<TargetConditionals.h>
+
+1751481124 source:c:\users\52555\documents\github\hmath-tests\main.cpp
+	<iostream>
+	"platform/platform.h"
+	"math/hmath.h"
+
+1751421118 c:\users\52555\documents\github\hmath-tests\platform\platform.h
+	"../defines.h"
+
+1751481249 c:\users\52555\documents\github\hmath-tests\math\hmath.h
+	"../defines.h"
+	"math_types.inl"
+	"../core/hmemory.h"
+
+1751419919 c:\users\52555\documents\github\hmath-tests\math\math_types.inl
+	"../defines.h"
+
+1751432681 source:c:\users\52555\documents\github\hmath-tests\math\hmath.cpp
+	"hmath.h"
+	"../platform/platform.h"
+	<math.h>
+	<stdlib.h>
+
+1751421136 source:c:\users\52555\documents\github\hmath-tests\platform\win32.cpp
+	"platform.h"
+	<stdio.h>
+	<windows.h>
+	<windowsx.h>
+

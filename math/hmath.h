@@ -74,6 +74,9 @@
 // **   General math functions   ** //
 // ******************************** */
 
+// SIMD functions
+#ifdef HUSE_SIMD
+
 inline void loadx4(const int* bruh,  int res[4]) {
     asm (
         "movdqu %1, %%xmm0\n\t"
@@ -166,6 +169,8 @@ inline void storex4(int* destino, const int coco[4]) {
 
 
 }
+
+#endif
 
 /**
   * @brief Calculates the sine of x.
