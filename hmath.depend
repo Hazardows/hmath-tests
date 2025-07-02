@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1751422819 source:c:\users\52555\desktop\hmath\hmath\main.cpp
+	<iostream>
+	"math/hmath.h"
+
+1751421202 source:c:\users\52555\desktop\hmath\hmath\core\hmemory.c
+	"hmemory.h"
+
+1751421225 c:\users\52555\desktop\hmath\hmath\core\hmemory.h
+	"../defines.h"
+
+1751421249 c:\users\52555\desktop\hmath\hmath\defines.h
+	<TargetConditionals.h>
+
+1751422579 source:c:\users\52555\desktop\hmath\hmath\math\hmath.cpp
+	"hmath.h"
+	"../platform/platform.h"
+	<math.h>
+	<stdlib.h>
+
+1751422558 c:\users\52555\desktop\hmath\hmath\math\hmath.h
+	"../defines.h"
+	"math_types.inl"
+	"../core/hmemory.h"
+
+1751419919 c:\users\52555\desktop\hmath\hmath\math\math_types.inl
+	"../defines.h"
+
+1751421118 c:\users\52555\desktop\hmath\hmath\platform\platform.h
+	"../defines.h"
+
+1751421136 source:c:\users\52555\desktop\hmath\hmath\platform\win32.cpp
+	"platform.h"
+	<stdio.h>
+	<windows.h>
+	<windowsx.h>
+
+1751421202 source:c:\users\52555\desktop\hmath\hmath\core\hmemory.cpp
+	"hmemory.h"
+
+1751421202 source:c:\users\asus\desktop\hmath\core\hmemory.cpp
+	"hmemory.h"
+
+1751421225 c:\users\asus\desktop\hmath\core\hmemory.h
+	"../defines.h"
+
+1751421249 c:\users\asus\desktop\hmath\defines.h
+	<TargetConditionals.h>
+
+1751317268 source:c:\users\asus\desktop\hmath\math\hmath.cpp
+	"hmath.h"
+	"../platform/platform.h"
+	<math.h>
+	<stdlib.h>
+
+1751320739 c:\users\asus\desktop\hmath\math\hmath.h
+	"../defines.h"
+	"math_types.inl"
+	"../core/hmemory.h"
+
+1751419919 c:\users\asus\desktop\hmath\math\math_types.inl
+	"../defines.h"
+
+1751421118 c:\users\asus\desktop\hmath\platform\platform.h
+	"../defines.h"
+
+1751421136 source:c:\users\asus\desktop\hmath\platform\win32.cpp
+	"platform.h"
+	<stdio.h>
+	<windows.h>
+	<windowsx.h>
+
+1751421202 source:c:\users\52555\documents\github\hmath codeblocks\hmath chris\hmath 2\core\hmemory.cpp
+	"hmemory.h"
+
+1751421225 c:\users\52555\documents\github\hmath codeblocks\hmath chris\hmath 2\core\hmemory.h
+	"../defines.h"
+
+1751421249 c:\users\52555\documents\github\hmath codeblocks\hmath chris\hmath 2\defines.h
+	<TargetConditionals.h>
+
+1751421136 source:c:\users\52555\documents\github\hmath codeblocks\hmath chris\hmath 2\platform\win32.cpp
+	"platform.h"
+	<stdio.h>
+	<windows.h>
+	<windowsx.h>
+
+1751421118 c:\users\52555\documents\github\hmath codeblocks\hmath chris\hmath 2\platform\platform.h
+	"../defines.h"
+
+1751422850 source:c:\users\52555\documents\github\hmath codeblocks\hmath chris\hmath 2\main.cpp
+	<iostream>
+	"math/hmath.h"
+
+1751432306 c:\users\52555\documents\github\hmath codeblocks\hmath chris\hmath 2\math\hmath.h
+	"../defines.h"
+	"math_types.inl"
+	"../core/hmemory.h"
+
+1751419919 c:\users\52555\documents\github\hmath codeblocks\hmath chris\hmath 2\math\math_types.inl
+	"../defines.h"
+
+1751421202 source:c:\users\52555\documents\github\hmath codeblocks\hmath chris\hmath\core\hmemory.cpp
+	"hmemory.h"
+
+1751421225 c:\users\52555\documents\github\hmath codeblocks\hmath chris\hmath\core\hmemory.h
+	"../defines.h"
+
+1751421249 c:\users\52555\documents\github\hmath codeblocks\hmath chris\hmath\defines.h
+	<TargetConditionals.h>
+
+1751421136 source:c:\users\52555\documents\github\hmath codeblocks\hmath chris\hmath\platform\win32.cpp
+	"platform.h"
+	<stdio.h>
+	<windows.h>
+	<windowsx.h>
+
+1751421118 c:\users\52555\documents\github\hmath codeblocks\hmath chris\hmath\platform\platform.h
+	"../defines.h"
+
+1751479614 source:c:\users\52555\documents\github\hmath codeblocks\hmath chris\hmath\main.cpp
+	<iostream>
+	"platform/platform.h"
+	"math/hmath.h"
+
+1751479523 c:\users\52555\documents\github\hmath codeblocks\hmath chris\hmath\math\hmath.h
+	"../defines.h"
+	"math_types.inl"
+	"../core/hmemory.h"
+
+1751419919 c:\users\52555\documents\github\hmath codeblocks\hmath chris\hmath\math\math_types.inl
+	"../defines.h"
+
+1751432681 source:c:\users\52555\documents\github\hmath codeblocks\hmath chris\hmath\math\hmath.cpp
+	"hmath.h"
+	"../platform/platform.h"
+	<math.h>
+	<stdlib.h>
+
